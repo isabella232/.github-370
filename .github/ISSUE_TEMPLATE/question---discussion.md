@@ -9,3 +9,6 @@ assignees: ''
 
 **State your question**
 A question or issue you would like to discuss.
+
+**Additional resources**
+Please refer to the [Contributing Guidelines](/CONTRIBUTING.md).
